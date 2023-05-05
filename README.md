@@ -1,2 +1,2 @@
-# apeperia-alura
-Criado juntamente com o curso da Alura. 
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
